@@ -1,0 +1,22 @@
+{
+    "name":"Kushwah Chaat Center App",
+    "short_name":"KC APP",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"App For Kushwah Chat Center",
+    "icons":[
+    {
+    "src":"images/logo.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/logo-512.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
